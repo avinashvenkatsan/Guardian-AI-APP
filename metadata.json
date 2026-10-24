@@ -1,0 +1,6 @@
+{
+  "name": "Guardian – Natural Disaster Alert & SOS",
+  "description": "Cross-platform natural disaster alert, real-time world tracking map, early warning system, and one-tap emergency SOS router.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
